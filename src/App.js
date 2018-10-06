@@ -3,6 +3,11 @@ import logo from './logo.svg';
 
 class App extends Component {
   render() {
+    console.log(
+      'aspdoifj  pasodfij paosdifj ',
+      ' poaisdj fpoiajsdf poiaj asdfpioj ',
+      'poaijsd fpoijfads ',
+    );
     return (
       <div className="App">
         <header className="App-header">
