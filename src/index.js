@@ -1,7 +1,9 @@
 import 'babel-polyfill';
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import './styles/reset.scss';
+import './styles/form-reset.scss';
+import './styles/base.scss';
 import App from './App';
 // import registerServiceWorker from './registerServiceWorker';
 

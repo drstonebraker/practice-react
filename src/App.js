@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 
 class App extends Component {
   render() {
+    const hello = 'foo';
+
     return (
       <div>
         <input />
