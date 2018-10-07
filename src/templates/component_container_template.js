@@ -1,6 +1,6 @@
 // import { connect } from 'react-redux';
 //
-// import XXX from './XXX';
+// import { XXX } from './XXX';
 //
 // // import selectors
 //

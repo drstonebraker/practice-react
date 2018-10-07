@@ -24,7 +24,7 @@ if (process.env.NODE_ENV !== 'production') {
  * @param preloadedState
  * @returns {*}
  */
-const configureStore = (preloadedState = {}) => {
+export const configureStore = (preloadedState = {}) => {
   const store = createStore(
     rootReducer,
     preloadedState,
@@ -34,4 +34,3 @@ const configureStore = (preloadedState = {}) => {
   return store;
 };
 
-export default configureStore;

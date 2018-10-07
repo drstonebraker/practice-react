@@ -29,3 +29,12 @@ a {
 li {
   list-style: none;
 }
+
+input[type=button],
+input[type=submit],
+input[type=reset],
+select, 
+button,
+a {
+  cursor: pointer
+}
